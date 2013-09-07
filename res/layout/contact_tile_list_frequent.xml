@@ -25,6 +25,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="?attr/favorites_padding_bottom"
+    android:background="@drawable/background_holo_dark"
     android:orientation="vertical">
 
     <FrameLayout

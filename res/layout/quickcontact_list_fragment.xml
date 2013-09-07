@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:divider="@drawable/quickcontact_list_item_divider"
         android:dividerHeight="1dip"
-        android:background="@color/quickcontact_list_background"
+        android:background="@drawable/background_holo_dark"
         android:cacheColorHint="@null"
         android:layout_alignParentTop="true"
     />
