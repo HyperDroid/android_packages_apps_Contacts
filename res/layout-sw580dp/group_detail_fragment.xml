@@ -21,7 +21,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/panel_content"
+    android:background="@drawable/background_holo_dark"
     android:paddingLeft="@dimen/group_detail_border_padding"
     android:paddingRight="@dimen/group_detail_border_padding"
     android:paddingStart="@dimen/group_detail_border_padding"

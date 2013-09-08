@@ -20,6 +20,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:ex="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
+    android:background="@drawable/background_holo_dark"
     android:layout_height="match_parent">
 
     <LinearLayout
@@ -36,7 +37,7 @@
             android:layout_width="0dip"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/list_background_holo"
+            android:background="#00000000"
             android:visibility="gone">
 
             <!-- All -->
@@ -107,7 +108,7 @@
             android:id="@+id/favorites_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/background_primary">
+            android:background="@drawable/background_holo_dark">
 
             <fragment
                 android:id="@+id/favorites_fragment"
